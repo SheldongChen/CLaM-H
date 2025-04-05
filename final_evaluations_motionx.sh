@@ -1,0 +1,1 @@
+python -u final_evaluations_motionx.py --only_gt --gpu 0

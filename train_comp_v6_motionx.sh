@@ -1,0 +1,1 @@
+python train_comp_v6_motionx.py --name Comp_v6_KLD005 --gpu_id 0 --lambda_kld 0.005 --dataset_name motionx --batch_size 128

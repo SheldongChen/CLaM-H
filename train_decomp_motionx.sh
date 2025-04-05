@@ -1,0 +1,1 @@
+python -u train_decomp_motionx.py --name Decomp_SP001_SM001_H512 --gpu_id 0 --window_size 24 --dataset_name motionx --batch_size 1280 --lr 1e-4 --dim_movement_enc_hidden 512 --dim_movement_dec_hidden 512 --dim_movement_latent 512

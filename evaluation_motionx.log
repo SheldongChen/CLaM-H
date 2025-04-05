@@ -1,0 +1,209 @@
+==================== Replication 0 ====================
+Time: 2025-03-20 11:05:10.826922
+---> [ground truth] Matching Score: 4.1694
+---> [ground truth] R_precision: (top 1): 0.8047 (top 2): 0.9099 (top 3): 0.9442 
+Time: 2025-03-20 11:05:22.812978
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:05:29.847243
+---> [ground truth] Diversity: 8.8634
+Time: 2025-03-20 11:05:29.848211
+!!! DONE !!!
+==================== Replication 1 ====================
+Time: 2025-03-20 11:05:29.848260
+---> [ground truth] Matching Score: 4.1709
+---> [ground truth] R_precision: (top 1): 0.7927 (top 2): 0.9042 (top 3): 0.9422 
+Time: 2025-03-20 11:05:40.861965
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:05:48.429445
+---> [ground truth] Diversity: 8.9472
+Time: 2025-03-20 11:05:48.430645
+!!! DONE !!!
+==================== Replication 2 ====================
+Time: 2025-03-20 11:05:48.430713
+---> [ground truth] Matching Score: 4.1919
+---> [ground truth] R_precision: (top 1): 0.7911 (top 2): 0.9024 (top 3): 0.9403 
+Time: 2025-03-20 11:05:59.501917
+---> [ground truth] FID: 0.0029
+Time: 2025-03-20 11:06:06.852594
+---> [ground truth] Diversity: 8.8624
+Time: 2025-03-20 11:06:06.873667
+!!! DONE !!!
+==================== Replication 3 ====================
+Time: 2025-03-20 11:06:06.873736
+---> [ground truth] Matching Score: 4.1646
+---> [ground truth] R_precision: (top 1): 0.7977 (top 2): 0.9098 (top 3): 0.9440 
+Time: 2025-03-20 11:06:17.727129
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:06:25.000361
+---> [ground truth] Diversity: 8.7006
+Time: 2025-03-20 11:06:25.001331
+!!! DONE !!!
+==================== Replication 4 ====================
+Time: 2025-03-20 11:06:25.001382
+---> [ground truth] Matching Score: 4.1720
+---> [ground truth] R_precision: (top 1): 0.7974 (top 2): 0.9083 (top 3): 0.9445 
+Time: 2025-03-20 11:06:35.930210
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:06:43.112720
+---> [ground truth] Diversity: 8.7475
+Time: 2025-03-20 11:06:43.113690
+!!! DONE !!!
+==================== Replication 5 ====================
+Time: 2025-03-20 11:06:43.113755
+---> [ground truth] Matching Score: 4.1586
+---> [ground truth] R_precision: (top 1): 0.7969 (top 2): 0.9093 (top 3): 0.9438 
+Time: 2025-03-20 11:06:54.098482
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:07:01.382446
+---> [ground truth] Diversity: 8.8604
+Time: 2025-03-20 11:07:01.383400
+!!! DONE !!!
+==================== Replication 6 ====================
+Time: 2025-03-20 11:07:01.383448
+---> [ground truth] Matching Score: 4.1737
+---> [ground truth] R_precision: (top 1): 0.8022 (top 2): 0.9118 (top 3): 0.9444 
+Time: 2025-03-20 11:07:12.351518
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:07:19.613202
+---> [ground truth] Diversity: 8.8266
+Time: 2025-03-20 11:07:19.614174
+!!! DONE !!!
+==================== Replication 7 ====================
+Time: 2025-03-20 11:07:19.614231
+---> [ground truth] Matching Score: 4.1792
+---> [ground truth] R_precision: (top 1): 0.7997 (top 2): 0.9105 (top 3): 0.9438 
+Time: 2025-03-20 11:07:30.499799
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:07:37.890432
+---> [ground truth] Diversity: 8.8749
+Time: 2025-03-20 11:07:37.891763
+!!! DONE !!!
+==================== Replication 8 ====================
+Time: 2025-03-20 11:07:37.891843
+---> [ground truth] Matching Score: 4.1522
+---> [ground truth] R_precision: (top 1): 0.7975 (top 2): 0.9096 (top 3): 0.9438 
+Time: 2025-03-20 11:07:48.797087
+---> [ground truth] FID: 0.0028
+Time: 2025-03-20 11:07:56.091275
+---> [ground truth] Diversity: 8.8770
+Time: 2025-03-20 11:07:56.092177
+!!! DONE !!!
+==================== Replication 9 ====================
+Time: 2025-03-20 11:07:56.092223
+---> [ground truth] Matching Score: 4.1556
+---> [ground truth] R_precision: (top 1): 0.7978 (top 2): 0.9102 (top 3): 0.9467 
+Time: 2025-03-20 11:08:06.871689
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:08:14.129420
+---> [ground truth] Diversity: 8.8431
+Time: 2025-03-20 11:08:14.130363
+!!! DONE !!!
+==================== Replication 10 ====================
+Time: 2025-03-20 11:08:14.130415
+---> [ground truth] Matching Score: 4.1625
+---> [ground truth] R_precision: (top 1): 0.7971 (top 2): 0.9085 (top 3): 0.9432 
+Time: 2025-03-20 11:08:25.112181
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:08:32.222687
+---> [ground truth] Diversity: 8.7807
+Time: 2025-03-20 11:08:32.223608
+!!! DONE !!!
+==================== Replication 11 ====================
+Time: 2025-03-20 11:08:32.223651
+---> [ground truth] Matching Score: 4.1881
+---> [ground truth] R_precision: (top 1): 0.7915 (top 2): 0.9080 (top 3): 0.9453 
+Time: 2025-03-20 11:08:43.042815
+---> [ground truth] FID: 0.0025
+Time: 2025-03-20 11:08:50.346626
+---> [ground truth] Diversity: 8.7902
+Time: 2025-03-20 11:08:50.347547
+!!! DONE !!!
+==================== Replication 12 ====================
+Time: 2025-03-20 11:08:50.347597
+---> [ground truth] Matching Score: 4.1685
+---> [ground truth] R_precision: (top 1): 0.7974 (top 2): 0.9093 (top 3): 0.9450 
+Time: 2025-03-20 11:09:01.243903
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:09:08.410999
+---> [ground truth] Diversity: 8.8226
+Time: 2025-03-20 11:09:08.411913
+!!! DONE !!!
+==================== Replication 13 ====================
+Time: 2025-03-20 11:09:08.411964
+---> [ground truth] Matching Score: 4.1838
+---> [ground truth] R_precision: (top 1): 0.7974 (top 2): 0.9077 (top 3): 0.9445 
+Time: 2025-03-20 11:09:19.127078
+---> [ground truth] FID: 0.0025
+Time: 2025-03-20 11:09:26.274534
+---> [ground truth] Diversity: 8.7246
+Time: 2025-03-20 11:09:26.275418
+!!! DONE !!!
+==================== Replication 14 ====================
+Time: 2025-03-20 11:09:26.275470
+---> [ground truth] Matching Score: 4.1704
+---> [ground truth] R_precision: (top 1): 0.7990 (top 2): 0.9099 (top 3): 0.9444 
+Time: 2025-03-20 11:09:37.086286
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:09:44.296605
+---> [ground truth] Diversity: 8.7730
+Time: 2025-03-20 11:09:44.297588
+!!! DONE !!!
+==================== Replication 15 ====================
+Time: 2025-03-20 11:09:44.297657
+---> [ground truth] Matching Score: 4.1623
+---> [ground truth] R_precision: (top 1): 0.8021 (top 2): 0.9105 (top 3): 0.9442 
+Time: 2025-03-20 11:09:55.165434
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:10:02.509098
+---> [ground truth] Diversity: 8.8114
+Time: 2025-03-20 11:10:02.509985
+!!! DONE !!!
+==================== Replication 16 ====================
+Time: 2025-03-20 11:10:02.510027
+---> [ground truth] Matching Score: 4.1635
+---> [ground truth] R_precision: (top 1): 0.8016 (top 2): 0.9114 (top 3): 0.9459 
+Time: 2025-03-20 11:10:13.362787
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:10:20.510372
+---> [ground truth] Diversity: 8.8962
+Time: 2025-03-20 11:10:20.511261
+!!! DONE !!!
+==================== Replication 17 ====================
+Time: 2025-03-20 11:10:20.511315
+---> [ground truth] Matching Score: 4.1670
+---> [ground truth] R_precision: (top 1): 0.7989 (top 2): 0.9080 (top 3): 0.9447 
+Time: 2025-03-20 11:10:31.485958
+---> [ground truth] FID: 0.0026
+Time: 2025-03-20 11:10:38.644645
+---> [ground truth] Diversity: 8.8518
+Time: 2025-03-20 11:10:38.645561
+!!! DONE !!!
+==================== Replication 18 ====================
+Time: 2025-03-20 11:10:38.645622
+---> [ground truth] Matching Score: 4.1625
+---> [ground truth] R_precision: (top 1): 0.7997 (top 2): 0.9096 (top 3): 0.9448 
+Time: 2025-03-20 11:10:49.470488
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:10:56.696066
+---> [ground truth] Diversity: 8.8569
+Time: 2025-03-20 11:10:56.696989
+!!! DONE !!!
+==================== Replication 19 ====================
+Time: 2025-03-20 11:10:56.697034
+---> [ground truth] Matching Score: 4.1719
+---> [ground truth] R_precision: (top 1): 0.8068 (top 2): 0.9131 (top 3): 0.9464 
+Time: 2025-03-20 11:11:07.516903
+---> [ground truth] FID: 0.0027
+Time: 2025-03-20 11:11:14.773712
+---> [ground truth] Diversity: 8.8843
+Time: 2025-03-20 11:11:14.774601
+!!! DONE !!!
+========== Matching Score Summary ==========
+---> [ground truth] Mean: 4.1694 CInterval: 0.0044
+========== R_precision Summary ==========
+---> [ground truth](top 1) Mean: 0.7985 CInt: 0.0017;(top 2) Mean: 0.9091 CInt: 0.0010;(top 3) Mean: 0.9443 CInt: 0.0006;
+========== FID Summary ==========
+---> [ground truth] Mean: 0.0027 CInterval: 0.0000
+========== Diversity Summary ==========
+---> [ground truth] Mean: 8.8297 CInterval: 0.0263
+========== MultiModality Summary ==========

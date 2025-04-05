@@ -1,0 +1,1 @@
+python train_length_est_motionx.py --name length_est_bigru --gpu_id 0 --dataset_name motionx

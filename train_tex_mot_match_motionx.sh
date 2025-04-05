@@ -1,0 +1,1 @@
+python -u train_tex_mot_match_motionx.py --name text_mot_match --gpu_id 0 --batch_size 64 --dataset_name motionx --lr 3e-5 --use_adamw --adamw_weight_decay 1e-1 --beta2 0.999 --eps 1e-8 --use_transformers --use_transformers_pretrain --tau 0.1 --alpha 0.02
