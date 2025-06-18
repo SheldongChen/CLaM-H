@@ -129,4 +129,12 @@ author={Xiaodong Chen and Kunlang He and Wu Liu and Xinchen Liu and Zheng-Jun Zh
 booktitle={ACM Multimedia (ACM MM)},
 year={2024}
 }
+
+@inproceedings{li2025m,
+  title={M-Adaptor: Text-driven Whole-body Human Motion Generation},
+  author={Li, Alicia and Chen, Xiaodong and Liang, Bohao and Bao, Qian and Liu, Wu},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={2604--2613},
+  year={2025}
+}
 ```
